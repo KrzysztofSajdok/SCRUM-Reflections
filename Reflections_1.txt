@@ -1,0 +1,1 @@
+W skrócie: wyagania funkcjonalne opisują funkcje, które tworzymy system ma posiadać. Wymagania niefunkcjonalne opisują cechy jakie system ma posiadać.
