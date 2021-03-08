@@ -1,0 +1,4 @@
+Według Romana Pichlera główne kryteria sortowania backlogu to:
+1. Wartość biznesowa 
+2. Zależności
+3. Możliwość wdrożenia
