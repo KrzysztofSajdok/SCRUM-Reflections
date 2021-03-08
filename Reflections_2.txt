@@ -1,0 +1,1 @@
+To sposób tworzenia oprogramowania. Zakłada on stworzenie w pierwszej kolejności testu, który sprawdza działanie funkcjonlaności, którą chcemy napisać, a następnie pisanie jak najprostszego kodu, który test ten przejdzie.
